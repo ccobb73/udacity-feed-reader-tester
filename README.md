@@ -22,4 +22,4 @@ Initial Entries:
 New Feed Selection:
 * Feed content changes when new feed is selected
 
-To view the feedreader testing site on GitHub pages go to http://ccobb73.github.io/udacity-feed-reader-tester/
+To view the feedreader testing site on GitHub pages go to https://ccobb73.github.io/udacity-feed-reader-tester/
