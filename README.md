@@ -6,6 +6,9 @@ This project demonstrates browser based testing using JavaScript testing framewo
 ### Instructions
 You can view the site on GitHub pages by using the link below.
 
+###Steps To Run
+Open index.html in your browser of choice
+
 ## Tests
 RSS Feeds:
 * Feeds are Defined
